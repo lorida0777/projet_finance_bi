@@ -1,0 +1,25 @@
+﻿code_produit,libelle,categorie,sous_categorie,unite_facturation,prix_catalogue_ht,taux_tva,actif
+SVC-001,Audit légal annuel – TPE,Audit,Audit légal,Forfait,3500,20.0,1
+SVC-002,Audit légal annuel – PME,Audit,Audit légal,Forfait,8500,20.0,1
+SVC-003,Audit légal annuel – ETI/GE,Audit,Audit légal,Forfait,22000,20.0,1
+SVC-004,Audit contractuel,Audit,Audit contractuel,Journée,1200,20.0,1
+SVC-005,Due diligence financière,Audit,Audit contractuel,Forfait,15000,20.0,1
+SVC-006,Tenue comptabilité mensuelle – TPE,Expertise,Comptabilité,Forfait,450,20.0,1
+SVC-007,Tenue comptabilité mensuelle – PME,Expertise,Comptabilité,Forfait,1200,20.0,1
+SVC-008,Établissement bilan annuel,Expertise,Bilan,Forfait,2500,20.0,1
+SVC-009,Déclaration TVA mensuelle,Expertise,Fiscalité courante,Forfait,180,20.0,1
+SVC-010,Paie et charges sociales,Expertise,Social,Bulletin,45,20.0,1
+SVC-011,Business plan & prévisionnel,Conseil,Stratégie,Forfait,4500,20.0,1
+SVC-012,Tableau de bord de gestion,Conseil,Reporting,Forfait,3200,20.0,1
+SVC-013,Analyse de rentabilité,Conseil,Analyse,Journée,1100,20.0,1
+SVC-014,Conseil en restructuration,Conseil,Stratégie,Journée,1500,20.0,1
+SVC-015,Optimisation de trésorerie,Conseil,Trésorerie,Forfait,2800,20.0,1
+SVC-016,Déclaration IS annuelle,Fiscalité,Fiscalité,Forfait,1800,20.0,1
+SVC-017,Déclaration IRSA,Fiscalité,Fiscalité,Forfait,950,20.0,1
+SVC-018,Audit fiscal,Fiscalité,Audit fiscal,Forfait,6500,20.0,1
+SVC-019,Conseil fiscal ponctuel,Fiscalité,Conseil fiscal,Heure,180,20.0,1
+SVC-020,Contentieux fiscal,Fiscalité,Contentieux,Journée,1400,20.0,1
+SVC-021,Formation Power BI – 2 jours,Formation,BI & Data,Journée,800,20.0,1
+SVC-022,Formation Excel avancé,Formation,Bureautique,Journée,600,20.0,1
+SVC-023,Formation comptabilité OHADA,Formation,Comptabilité,Journée,750,20.0,1
+SVC-024,Formation fiscalité entreprises,Formation,Fiscalité,Journée,700,20.0,1

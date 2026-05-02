@@ -1,0 +1,201 @@
+﻿code_client,raison_sociale,secteur_activite,taille_entreprise,ville,region,pays,date_entree,statut,segment,plafond_credit,conditions_paiement
+CLI-0001,SOMATRANS,Industrie,PME,Toamasina,Atsinanana,Madagascar,2020-02-21,Actif,Standard,50000,45
+CLI-0002,AGRI-MADAG,Commerce,TPE,Toamasina,Atsinanana,Madagascar,2023-01-21,Actif,Standard,10000,30
+CLI-0003,HOTEL TROPICAL,Agriculture,TPE,Antananarivo,Analamanga,Madagascar,2020-07-10,Actif,Standard,10000,30
+CLI-0004,TECH MADA,Agriculture,PME,Antananarivo,Analamanga,Madagascar,2023-02-23,Actif,Standard,50000,45
+CLI-0005,CONSTRUCTION PLUS,Technologie,ETI,Antsiranana,Diana,Madagascar,2021-03-27,Actif,Grand Compte,200000,60
+CLI-0006,PHARMA ISLAND,Services,TPE,Antsirabe,Vakinankaratra,Madagascar,2022-05-15,Actif,Standard,10000,30
+CLI-0007,MEDIA GROUP,Commerce,TPE,Toliara,Atsimo-Andrefana,Madagascar,2020-07-28,Actif,Standard,10000,30
+CLI-0008,AGRO EXPORT,Industrie,TPE,Toliara,Atsimo-Andrefana,Madagascar,2023-05-21,Actif,Standard,10000,30
+CLI-0009,LOGISTIC PRO,Commerce,ETI,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2023-01-03,Suspendu,Grand Compte,200000,60
+CLI-0010,IMMO INVEST,Industrie,TPE,Toamasina,Atsinanana,Madagascar,2023-02-04,Actif,Standard,10000,30
+CLI-0011,ELECTRICITE MADA,Agriculture,PME,Toliara,Atsimo-Andrefana,Madagascar,2023-03-28,Actif,Standard,50000,45
+CLI-0012,BRASSERIE STAR,Commerce,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2021-08-15,Inactif,Standard,10000,30
+CLI-0013,CIMENT MADA,Technologie,TPE,Antsiranana,Diana,Madagascar,2021-07-23,Actif,Standard,10000,30
+CLI-0014,COTONA,Services,TPE,Antsirabe,Vakinankaratra,Madagascar,2022-01-28,Actif,Standard,10000,30
+CLI-0015,SUCOMA,Transport,TPE,Toamasina,Atsinanana,Madagascar,2023-06-01,Actif,Standard,10000,30
+CLI-0016,JIRAMA NORD,Hôtellerie,TPE,Antsirabe,Vakinankaratra,Madagascar,2022-08-04,Actif,Standard,10000,30
+CLI-0017,TELMA,BTP,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2021-10-26,Actif,Standard,50000,45
+CLI-0018,ORANGE MADA,Industrie,TPE,Toliara,Atsimo-Andrefana,Madagascar,2022-04-01,Actif,Standard,10000,30
+CLI-0019,AIRTEL MADA,Technologie,PME,Toliara,Atsimo-Andrefana,Madagascar,2021-03-11,Actif,Standard,50000,45
+CLI-0020,MVOLA,Industrie,PME,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-10-19,Actif,Standard,50000,45
+CLI-0021,CREDIT FONCIER,Hôtellerie,ETI,Mahajanga,Boeny,Madagascar,2023-04-12,Inactif,Grand Compte,200000,60
+CLI-0022,BOA MADA,Transport,PME,Toliara,Atsimo-Andrefana,Madagascar,2021-03-25,Actif,Standard,50000,45
+CLI-0023,BMOI,Transport,TPE,Antananarivo,Analamanga,Madagascar,2020-08-12,Actif,Standard,10000,30
+CLI-0024,SBM BANK,Commerce,ETI,Antsiranana,Diana,Madagascar,2023-05-06,Actif,Grand Compte,200000,60
+CLI-0025,ACCESS BANK,Industrie,PME,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2022-12-19,Suspendu,Standard,50000,45
+CLI-0026,SOPROGIM,Industrie,TPE,Toamasina,Atsinanana,Madagascar,2023-01-04,Actif,Standard,10000,30
+CLI-0027,SOCOLAIT,Hôtellerie,TPE,Toamasina,Atsinanana,Madagascar,2021-08-24,Actif,Standard,10000,30
+CLI-0028,SOVI,Transport,TPE,Mahajanga,Boeny,Madagascar,2022-10-22,Actif,Standard,10000,30
+CLI-0029,TIKO GROUP,Éducation,TPE,Mahajanga,Boeny,Madagascar,2022-11-05,Actif,Standard,10000,30
+CLI-0030,SME MADA,Santé,TPE,Antsirabe,Vakinankaratra,Madagascar,2023-01-09,Inactif,Standard,10000,30
+CLI-0031,SOMATRANS 2,BTP,PME,Toliara,Atsimo-Andrefana,Madagascar,2022-09-27,Actif,Standard,50000,45
+CLI-0032,AGRI-MADAG 2,BTP,TPE,Mahajanga,Boeny,Madagascar,2021-05-05,Actif,Standard,10000,30
+CLI-0033,HOTEL TROPICAL 2,Technologie,PME,Toamasina,Atsinanana,Madagascar,2020-06-24,Actif,Standard,50000,45
+CLI-0034,TECH MADA 2,Technologie,GE,Antsirabe,Vakinankaratra,Madagascar,2020-09-19,Inactif,Grand Compte,500000,90
+CLI-0035,CONSTRUCTION PLUS 2,Éducation,TPE,Mahajanga,Boeny,Madagascar,2022-12-16,Actif,Standard,10000,30
+CLI-0036,PHARMA ISLAND 2,Hôtellerie,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2021-09-30,Suspendu,Standard,10000,30
+CLI-0037,MEDIA GROUP 2,Santé,PME,Toliara,Atsimo-Andrefana,Madagascar,2022-06-16,Actif,Standard,50000,45
+CLI-0038,AGRO EXPORT 2,Services,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2020-05-11,Actif,Standard,10000,30
+CLI-0039,LOGISTIC PRO 2,Agriculture,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2023-04-20,Actif,Standard,50000,45
+CLI-0040,IMMO INVEST 2,Commerce,ETI,Antananarivo,Analamanga,Madagascar,2021-04-13,Inactif,Grand Compte,200000,60
+CLI-0041,ELECTRICITE MADA 2,Agriculture,TPE,Toamasina,Atsinanana,Madagascar,2022-11-18,Actif,Standard,10000,30
+CLI-0042,BRASSERIE STAR 2,Transport,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2023-01-09,Actif,Standard,50000,45
+CLI-0043,CIMENT MADA 2,Technologie,PME,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2021-05-12,Actif,Standard,50000,45
+CLI-0044,COTONA 2,Hôtellerie,TPE,Toamasina,Atsinanana,Madagascar,2020-07-17,Actif,Standard,10000,30
+CLI-0045,SUCOMA 2,Commerce,PME,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-04-20,Actif,Standard,50000,45
+CLI-0046,JIRAMA NORD 2,Agriculture,ETI,Toliara,Atsimo-Andrefana,Madagascar,2020-08-11,Actif,Grand Compte,200000,60
+CLI-0047,TELMA 2,Hôtellerie,PME,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-10-14,Actif,Standard,50000,45
+CLI-0048,ORANGE MADA 2,Technologie,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2020-06-03,Actif,Standard,50000,45
+CLI-0049,AIRTEL MADA 2,Santé,PME,Toamasina,Atsinanana,Madagascar,2020-04-13,Actif,Standard,50000,45
+CLI-0050,MVOLA 2,Hôtellerie,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2020-12-06,Actif,Standard,10000,30
+CLI-0051,CREDIT FONCIER 2,Transport,TPE,Antsiranana,Diana,Madagascar,2020-04-30,Actif,Standard,10000,30
+CLI-0052,BOA MADA 2,Industrie,TPE,Mahajanga,Boeny,Madagascar,2022-07-20,Actif,Standard,10000,30
+CLI-0053,BMOI 2,Agriculture,ETI,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-11-13,Actif,Grand Compte,200000,60
+CLI-0054,SBM BANK 2,BTP,TPE,Antananarivo,Analamanga,Madagascar,2021-10-04,Actif,Standard,10000,30
+CLI-0055,ACCESS BANK 2,Santé,PME,Antsirabe,Vakinankaratra,Madagascar,2020-04-26,Actif,Standard,50000,45
+CLI-0056,SOPROGIM 2,Commerce,TPE,Toamasina,Atsinanana,Madagascar,2023-05-03,Actif,Standard,10000,30
+CLI-0057,SOCOLAIT 2,Éducation,TPE,Antsiranana,Diana,Madagascar,2020-09-02,Actif,Standard,10000,30
+CLI-0058,SOVI 2,Commerce,PME,Antananarivo,Analamanga,Madagascar,2023-06-22,Actif,Standard,50000,45
+CLI-0059,TIKO GROUP 2,Agriculture,PME,Toliara,Atsimo-Andrefana,Madagascar,2021-06-18,Actif,Standard,50000,45
+CLI-0060,SME MADA 2,Hôtellerie,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2021-06-27,Actif,Standard,10000,30
+CLI-0061,SOMATRANS 3,Services,PME,Mahajanga,Boeny,Madagascar,2022-07-25,Inactif,Standard,50000,45
+CLI-0062,AGRI-MADAG 3,Éducation,TPE,Antananarivo,Analamanga,Madagascar,2022-07-27,Suspendu,Standard,10000,30
+CLI-0063,HOTEL TROPICAL 3,Agriculture,TPE,Toamasina,Atsinanana,Madagascar,2023-01-06,Actif,Standard,10000,30
+CLI-0064,TECH MADA 3,Agriculture,TPE,Toliara,Atsimo-Andrefana,Madagascar,2020-05-20,Actif,Standard,10000,30
+CLI-0065,CONSTRUCTION PLUS 3,Industrie,TPE,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2023-01-17,Actif,Standard,10000,30
+CLI-0066,PHARMA ISLAND 3,Industrie,PME,Antananarivo,Analamanga,Madagascar,2023-02-09,Inactif,Standard,50000,45
+CLI-0067,MEDIA GROUP 3,Commerce,TPE,Antsirabe,Vakinankaratra,Madagascar,2021-06-25,Inactif,Standard,10000,30
+CLI-0068,AGRO EXPORT 3,Industrie,ETI,Antsirabe,Vakinankaratra,Madagascar,2021-07-11,Actif,Grand Compte,200000,60
+CLI-0069,LOGISTIC PRO 3,Industrie,ETI,Toliara,Atsimo-Andrefana,Madagascar,2021-02-20,Actif,Grand Compte,200000,60
+CLI-0070,IMMO INVEST 3,Hôtellerie,TPE,Antananarivo,Analamanga,Madagascar,2020-07-08,Actif,Standard,10000,30
+CLI-0071,ELECTRICITE MADA 3,Transport,TPE,Antananarivo,Analamanga,Madagascar,2021-11-14,Actif,Standard,10000,30
+CLI-0072,BRASSERIE STAR 3,Santé,TPE,Antsirabe,Vakinankaratra,Madagascar,2022-06-23,Actif,Standard,10000,30
+CLI-0073,CIMENT MADA 3,Commerce,PME,Antananarivo,Analamanga,Madagascar,2020-08-17,Inactif,Standard,50000,45
+CLI-0074,COTONA 3,BTP,ETI,Antsirabe,Vakinankaratra,Madagascar,2023-01-22,Actif,Grand Compte,200000,60
+CLI-0075,SUCOMA 3,Transport,PME,Antsirabe,Vakinankaratra,Madagascar,2022-05-30,Actif,Standard,50000,45
+CLI-0076,JIRAMA NORD 3,Agriculture,TPE,Antananarivo,Analamanga,Madagascar,2022-01-02,Actif,Standard,10000,30
+CLI-0077,TELMA 3,Santé,ETI,Toamasina,Atsinanana,Madagascar,2021-12-25,Inactif,Grand Compte,200000,60
+CLI-0078,ORANGE MADA 3,Transport,PME,Antsirabe,Vakinankaratra,Madagascar,2021-04-29,Suspendu,Standard,50000,45
+CLI-0079,AIRTEL MADA 3,Transport,TPE,Antsiranana,Diana,Madagascar,2020-02-20,Actif,Standard,10000,30
+CLI-0080,MVOLA 3,Industrie,TPE,Antsiranana,Diana,Madagascar,2021-05-23,Actif,Standard,10000,30
+CLI-0081,CREDIT FONCIER 3,BTP,ETI,Toamasina,Atsinanana,Madagascar,2022-02-22,Inactif,Grand Compte,200000,60
+CLI-0082,BOA MADA 3,Services,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2022-07-31,Actif,Standard,10000,30
+CLI-0083,BMOI 3,Agriculture,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2020-02-18,Actif,Standard,10000,30
+CLI-0084,SBM BANK 3,Services,TPE,Toamasina,Atsinanana,Madagascar,2021-07-25,Actif,Standard,10000,30
+CLI-0085,ACCESS BANK 3,Commerce,PME,Toliara,Atsimo-Andrefana,Madagascar,2020-02-26,Inactif,Standard,50000,45
+CLI-0086,SOPROGIM 3,Industrie,TPE,Antsirabe,Vakinankaratra,Madagascar,2023-04-04,Actif,Standard,10000,30
+CLI-0087,SOCOLAIT 3,Services,PME,Antsiranana,Diana,Madagascar,2021-12-08,Actif,Standard,50000,45
+CLI-0088,SOVI 3,Éducation,PME,Toamasina,Atsinanana,Madagascar,2022-02-27,Actif,Standard,50000,45
+CLI-0089,TIKO GROUP 3,Santé,TPE,Antsiranana,Diana,Madagascar,2020-01-04,Inactif,Standard,10000,30
+CLI-0090,SME MADA 3,Hôtellerie,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2022-01-15,Actif,Standard,50000,45
+CLI-0091,SOMATRANS 4,Services,ETI,Toliara,Atsimo-Andrefana,Madagascar,2023-06-30,Actif,Grand Compte,200000,60
+CLI-0092,AGRI-MADAG 4,Industrie,TPE,Mahajanga,Boeny,Madagascar,2022-11-04,Actif,Standard,10000,30
+CLI-0093,HOTEL TROPICAL 4,Santé,TPE,Antsiranana,Diana,Madagascar,2021-08-28,Actif,Standard,10000,30
+CLI-0094,TECH MADA 4,Éducation,PME,Antsiranana,Diana,Madagascar,2020-12-22,Actif,Standard,50000,45
+CLI-0095,CONSTRUCTION PLUS 4,Industrie,PME,Antananarivo,Analamanga,Madagascar,2021-09-14,Actif,Standard,50000,45
+CLI-0096,PHARMA ISLAND 4,Technologie,PME,Toliara,Atsimo-Andrefana,Madagascar,2022-08-10,Actif,Standard,50000,45
+CLI-0097,MEDIA GROUP 4,Commerce,TPE,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-12-13,Actif,Standard,10000,30
+CLI-0098,AGRO EXPORT 4,Agriculture,PME,Toliara,Atsimo-Andrefana,Madagascar,2020-07-10,Actif,Standard,50000,45
+CLI-0099,LOGISTIC PRO 4,BTP,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2020-10-28,Actif,Standard,10000,30
+CLI-0100,IMMO INVEST 4,Hôtellerie,PME,Toamasina,Atsinanana,Madagascar,2022-07-21,Inactif,Standard,50000,45
+CLI-0101,ELECTRICITE MADA 4,Technologie,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2022-02-25,Actif,Standard,50000,45
+CLI-0102,BRASSERIE STAR 4,Hôtellerie,TPE,Antananarivo,Analamanga,Madagascar,2020-08-06,Actif,Standard,10000,30
+CLI-0103,CIMENT MADA 4,Santé,ETI,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-04-12,Actif,Grand Compte,200000,60
+CLI-0104,COTONA 4,Technologie,TPE,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-09-30,Actif,Standard,10000,30
+CLI-0105,SUCOMA 4,Éducation,PME,Toliara,Atsimo-Andrefana,Madagascar,2022-06-25,Actif,Standard,50000,45
+CLI-0106,JIRAMA NORD 4,Technologie,PME,Antsiranana,Diana,Madagascar,2023-01-27,Inactif,Standard,50000,45
+CLI-0107,TELMA 4,Industrie,ETI,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2022-07-10,Actif,Grand Compte,200000,60
+CLI-0108,ORANGE MADA 4,Technologie,PME,Mahajanga,Boeny,Madagascar,2022-12-03,Actif,Standard,50000,45
+CLI-0109,AIRTEL MADA 4,Industrie,TPE,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-06-07,Actif,Standard,10000,30
+CLI-0110,MVOLA 4,Commerce,TPE,Toliara,Atsimo-Andrefana,Madagascar,2023-01-11,Actif,Standard,10000,30
+CLI-0111,CREDIT FONCIER 4,Agriculture,TPE,Antsiranana,Diana,Madagascar,2020-11-08,Actif,Standard,10000,30
+CLI-0112,BOA MADA 4,Technologie,PME,Toliara,Atsimo-Andrefana,Madagascar,2023-01-16,Actif,Standard,50000,45
+CLI-0113,BMOI 4,Éducation,TPE,Antsiranana,Diana,Madagascar,2022-03-08,Inactif,Standard,10000,30
+CLI-0114,SBM BANK 4,BTP,TPE,Antsiranana,Diana,Madagascar,2022-09-03,Inactif,Standard,10000,30
+CLI-0115,ACCESS BANK 4,Santé,TPE,Antsiranana,Diana,Madagascar,2022-05-08,Actif,Standard,10000,30
+CLI-0116,SOPROGIM 4,Agriculture,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2022-09-26,Actif,Standard,50000,45
+CLI-0117,SOCOLAIT 4,Services,PME,Antananarivo,Analamanga,Madagascar,2022-03-07,Actif,Standard,50000,45
+CLI-0118,SOVI 4,Transport,PME,Antsirabe,Vakinankaratra,Madagascar,2022-08-15,Suspendu,Standard,50000,45
+CLI-0119,TIKO GROUP 4,Éducation,PME,Antananarivo,Analamanga,Madagascar,2022-03-17,Actif,Standard,50000,45
+CLI-0120,SME MADA 4,Transport,TPE,Toamasina,Atsinanana,Madagascar,2022-05-27,Inactif,Standard,10000,30
+CLI-0121,SOMATRANS 5,Hôtellerie,TPE,Antananarivo,Analamanga,Madagascar,2021-06-16,Actif,Standard,10000,30
+CLI-0122,AGRI-MADAG 5,Hôtellerie,PME,Toliara,Atsimo-Andrefana,Madagascar,2021-11-22,Actif,Standard,50000,45
+CLI-0123,HOTEL TROPICAL 5,Technologie,PME,Mahajanga,Boeny,Madagascar,2020-06-16,Actif,Standard,50000,45
+CLI-0124,TECH MADA 5,Agriculture,PME,Antananarivo,Analamanga,Madagascar,2021-12-17,Actif,Standard,50000,45
+CLI-0125,CONSTRUCTION PLUS 5,Agriculture,GE,Antananarivo,Analamanga,Madagascar,2020-03-04,Actif,Grand Compte,500000,90
+CLI-0126,PHARMA ISLAND 5,Transport,TPE,Antsirabe,Vakinankaratra,Madagascar,2021-05-03,Actif,Standard,10000,30
+CLI-0127,MEDIA GROUP 5,Industrie,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2022-08-10,Actif,Standard,10000,30
+CLI-0128,AGRO EXPORT 5,Industrie,TPE,Toamasina,Atsinanana,Madagascar,2020-12-01,Actif,Standard,10000,30
+CLI-0129,LOGISTIC PRO 5,Hôtellerie,TPE,Mahajanga,Boeny,Madagascar,2023-03-25,Actif,Standard,10000,30
+CLI-0130,IMMO INVEST 5,Éducation,ETI,Fianarantsoa,Haute Matsiatra,Madagascar,2020-06-04,Actif,Grand Compte,200000,60
+CLI-0131,ELECTRICITE MADA 5,Industrie,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2020-07-27,Inactif,Standard,50000,45
+CLI-0132,BRASSERIE STAR 5,BTP,PME,Toamasina,Atsinanana,Madagascar,2023-03-05,Actif,Standard,50000,45
+CLI-0133,CIMENT MADA 5,Santé,PME,Toliara,Atsimo-Andrefana,Madagascar,2020-05-21,Actif,Standard,50000,45
+CLI-0134,COTONA 5,Commerce,TPE,Antsiranana,Diana,Madagascar,2022-09-30,Actif,Standard,10000,30
+CLI-0135,SUCOMA 5,Hôtellerie,TPE,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-11-09,Actif,Standard,10000,30
+CLI-0136,JIRAMA NORD 5,Santé,PME,Mahajanga,Boeny,Madagascar,2023-06-15,Actif,Standard,50000,45
+CLI-0137,TELMA 5,Industrie,PME,Antsiranana,Diana,Madagascar,2023-04-28,Actif,Standard,50000,45
+CLI-0138,ORANGE MADA 5,Technologie,TPE,Toamasina,Atsinanana,Madagascar,2021-07-25,Actif,Standard,10000,30
+CLI-0139,AIRTEL MADA 5,BTP,PME,Antsiranana,Diana,Madagascar,2021-11-19,Actif,Standard,50000,45
+CLI-0140,MVOLA 5,Agriculture,TPE,Antsirabe,Vakinankaratra,Madagascar,2022-09-25,Actif,Standard,10000,30
+CLI-0141,CREDIT FONCIER 5,Éducation,TPE,Toliara,Atsimo-Andrefana,Madagascar,2021-07-26,Actif,Standard,10000,30
+CLI-0142,BOA MADA 5,Agriculture,TPE,Antananarivo,Analamanga,Madagascar,2022-11-24,Actif,Standard,10000,30
+CLI-0143,BMOI 5,Santé,ETI,Antsiranana,Diana,Madagascar,2022-09-27,Actif,Grand Compte,200000,60
+CLI-0144,SBM BANK 5,Technologie,ETI,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2022-10-02,Actif,Grand Compte,200000,60
+CLI-0145,ACCESS BANK 5,Hôtellerie,TPE,Mahajanga,Boeny,Madagascar,2021-03-29,Actif,Standard,10000,30
+CLI-0146,SOPROGIM 5,Santé,TPE,Toliara,Atsimo-Andrefana,Madagascar,2022-08-27,Actif,Standard,10000,30
+CLI-0147,SOCOLAIT 5,Technologie,PME,Toliara,Atsimo-Andrefana,Madagascar,2021-12-21,Actif,Standard,50000,45
+CLI-0148,SOVI 5,Agriculture,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2020-09-04,Actif,Standard,10000,30
+CLI-0149,TIKO GROUP 5,Agriculture,ETI,Antsirabe,Vakinankaratra,Madagascar,2021-01-27,Actif,Grand Compte,200000,60
+CLI-0150,SME MADA 5,Agriculture,TPE,Mahajanga,Boeny,Madagascar,2020-07-24,Actif,Standard,10000,30
+CLI-0151,SOMATRANS 6,BTP,TPE,Antsirabe,Vakinankaratra,Madagascar,2021-09-11,Actif,Standard,10000,30
+CLI-0152,AGRI-MADAG 6,BTP,TPE,Mahajanga,Boeny,Madagascar,2020-04-03,Actif,Standard,10000,30
+CLI-0153,HOTEL TROPICAL 6,Commerce,ETI,Antsirabe,Vakinankaratra,Madagascar,2022-10-02,Inactif,Grand Compte,200000,60
+CLI-0154,TECH MADA 6,Technologie,PME,Mahajanga,Boeny,Madagascar,2022-08-19,Actif,Standard,50000,45
+CLI-0155,CONSTRUCTION PLUS 6,Technologie,TPE,Antananarivo,Analamanga,Madagascar,2021-06-01,Actif,Standard,10000,30
+CLI-0156,PHARMA ISLAND 6,Commerce,TPE,Antsiranana,Diana,Madagascar,2022-10-04,Actif,Standard,10000,30
+CLI-0157,MEDIA GROUP 6,Transport,ETI,Antananarivo,Analamanga,Madagascar,2020-11-06,Actif,Grand Compte,200000,60
+CLI-0158,AGRO EXPORT 6,Commerce,TPE,Toamasina,Atsinanana,Madagascar,2021-05-23,Actif,Standard,10000,30
+CLI-0159,LOGISTIC PRO 6,Hôtellerie,PME,Fianarantsoa,Haute Matsiatra,Madagascar,2022-12-06,Actif,Standard,50000,45
+CLI-0160,IMMO INVEST 6,Hôtellerie,PME,Mahajanga,Boeny,Madagascar,2023-04-20,Actif,Standard,50000,45
+CLI-0161,ELECTRICITE MADA 6,Commerce,PME,Antananarivo,Analamanga,Madagascar,2023-06-02,Inactif,Standard,50000,45
+CLI-0162,BRASSERIE STAR 6,Commerce,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2021-06-25,Actif,Standard,10000,30
+CLI-0163,CIMENT MADA 6,BTP,TPE,Toamasina,Atsinanana,Madagascar,2020-11-16,Actif,Standard,10000,30
+CLI-0164,COTONA 6,BTP,ETI,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2021-08-19,Actif,Grand Compte,200000,60
+CLI-0165,SUCOMA 6,Commerce,ETI,Mahajanga,Boeny,Madagascar,2022-07-18,Actif,Grand Compte,200000,60
+CLI-0166,JIRAMA NORD 6,Commerce,TPE,Fianarantsoa,Haute Matsiatra,Madagascar,2022-05-20,Actif,Standard,10000,30
+CLI-0167,TELMA 6,Transport,PME,Antsirabe,Vakinankaratra,Madagascar,2021-06-28,Actif,Standard,50000,45
+CLI-0168,ORANGE MADA 6,Éducation,TPE,Mahajanga,Boeny,Madagascar,2023-05-03,Inactif,Standard,10000,30
+CLI-0169,AIRTEL MADA 6,Industrie,PME,Toamasina,Atsinanana,Madagascar,2022-08-17,Actif,Standard,50000,45
+CLI-0170,MVOLA 6,Commerce,TPE,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2022-06-15,Actif,Standard,10000,30
+CLI-0171,CREDIT FONCIER 6,Industrie,PME,Toliara,Atsimo-Andrefana,Madagascar,2023-05-21,Actif,Standard,50000,45
+CLI-0172,BOA MADA 6,Éducation,TPE,Antananarivo,Analamanga,Madagascar,2021-07-05,Actif,Standard,10000,30
+CLI-0173,BMOI 6,Santé,ETI,Antsirabe,Vakinankaratra,Madagascar,2022-08-21,Actif,Grand Compte,200000,60
+CLI-0174,SBM BANK 6,Hôtellerie,TPE,Antsirabe,Vakinankaratra,Madagascar,2023-04-13,Actif,Standard,10000,30
+CLI-0175,ACCESS BANK 6,Services,PME,Toamasina,Atsinanana,Madagascar,2022-08-20,Actif,Standard,50000,45
+CLI-0176,SOPROGIM 6,Services,TPE,Toamasina,Atsinanana,Madagascar,2020-11-25,Actif,Standard,10000,30
+CLI-0177,SOCOLAIT 6,Santé,PME,Mahajanga,Boeny,Madagascar,2022-03-31,Actif,Standard,50000,45
+CLI-0178,SOVI 6,Services,TPE,Toliara,Atsimo-Andrefana,Madagascar,2021-05-31,Actif,Standard,10000,30
+CLI-0179,TIKO GROUP 6,BTP,GE,Antsiranana,Diana,Madagascar,2022-11-19,Actif,Grand Compte,500000,90
+CLI-0180,SME MADA 6,BTP,PME,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2022-04-26,Actif,Standard,50000,45
+CLI-0181,SOMATRANS 7,BTP,TPE,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2022-06-24,Actif,Standard,10000,30
+CLI-0182,AGRI-MADAG 7,Technologie,PME,Antsirabe,Vakinankaratra,Madagascar,2021-08-12,Inactif,Standard,50000,45
+CLI-0183,HOTEL TROPICAL 7,Éducation,PME,Toamasina,Atsinanana,Madagascar,2020-02-29,Actif,Standard,50000,45
+CLI-0184,TECH MADA 7,Santé,ETI,Antsirabe,Vakinankaratra,Madagascar,2021-09-28,Actif,Grand Compte,200000,60
+CLI-0185,CONSTRUCTION PLUS 7,Commerce,PME,Toamasina,Atsinanana,Madagascar,2021-04-05,Actif,Standard,50000,45
+CLI-0186,PHARMA ISLAND 7,Industrie,TPE,Antsirabe,Vakinankaratra,Madagascar,2022-10-17,Actif,Standard,10000,30
+CLI-0187,MEDIA GROUP 7,Technologie,TPE,Antsiranana,Diana,Madagascar,2022-09-15,Actif,Standard,10000,30
+CLI-0188,AGRO EXPORT 7,Agriculture,PME,Antsirabe,Vakinankaratra,Madagascar,2022-02-24,Inactif,Standard,50000,45
+CLI-0189,LOGISTIC PRO 7,Industrie,PME,Antsirabe,Vakinankaratra,Madagascar,2020-05-22,Actif,Standard,50000,45
+CLI-0190,IMMO INVEST 7,Industrie,PME,Toliara,Atsimo-Andrefana,Madagascar,2022-11-05,Actif,Standard,50000,45
+CLI-0191,ELECTRICITE MADA 7,Éducation,TPE,Mahajanga,Boeny,Madagascar,2023-04-17,Suspendu,Standard,10000,30
+CLI-0192,BRASSERIE STAR 7,Santé,PME,Antsirabe,Vakinankaratra,Madagascar,2022-07-03,Actif,Standard,50000,45
+CLI-0193,CIMENT MADA 7,Services,TPE,Antsiranana,Diana,Madagascar,2022-07-21,Inactif,Standard,10000,30
+CLI-0194,COTONA 7,Hôtellerie,ETI,Fianarantsoa,Haute Matsiatra,Madagascar,2023-03-17,Actif,Grand Compte,200000,60
+CLI-0195,SUCOMA 7,Services,GE,Antsiranana,Diana,Madagascar,2020-03-30,Actif,Grand Compte,500000,90
+CLI-0196,JIRAMA NORD 7,Transport,ETI,Antsiranana,Diana,Madagascar,2022-03-01,Actif,Grand Compte,200000,60
+CLI-0197,TELMA 7,Éducation,TPE,Antsirabe,Vakinankaratra,Madagascar,2022-10-25,Actif,Standard,10000,30
+CLI-0198,ORANGE MADA 7,Santé,TPE,Ambatondrazaka,Alaotra-Mangoro,Madagascar,2020-07-23,Inactif,Standard,10000,30
+CLI-0199,AIRTEL MADA 7,Transport,TPE,Antsirabe,Vakinankaratra,Madagascar,2022-04-19,Actif,Standard,10000,30
+CLI-0200,MVOLA 7,Hôtellerie,TPE,Toliara,Atsimo-Andrefana,Madagascar,2023-06-30,Actif,Standard,10000,30

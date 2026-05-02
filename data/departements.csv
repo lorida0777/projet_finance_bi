@@ -1,0 +1,9 @@
+﻿code_dept,nom_departement,direction,responsable,budget_annuel,centre_cout
+DEPT-001,Audit Légal,Direction Technique,Marie Rakoto,850000,CC-100
+DEPT-002,Expertise Comptable,Direction Technique,Jean Rasolo,720000,CC-110
+DEPT-003,Conseil Financier,Direction Technique,Sophie Randria,640000,CC-120
+DEPT-004,Fiscalité,Direction Technique,Paul Rabemanana,580000,CC-130
+DEPT-005,Ressources Humaines,Direction Support,Alice Ratsima,310000,CC-200
+DEPT-006,Informatique & SI,Direction Support,Kevin Andriana,420000,CC-210
+DEPT-007,Commercial,Direction Commerciale,Marc Rabeson,390000,CC-300
+DEPT-008,Direction Générale,Direction Générale,Pierre Rakoton,250000,CC-400
