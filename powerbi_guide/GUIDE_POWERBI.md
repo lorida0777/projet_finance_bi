@@ -250,7 +250,7 @@ SUM(vw_BudgetVsRealise[realise])
 
 ## 5. Mise en forme recommandée
 
-### Couleurs BIOS Expertise (à appliquer)
+### Couleurs 
 ```
 Principal (Orange)  : #E8611A
 Secondaire (Noir)   : #1A1A1A
@@ -272,7 +272,7 @@ Danger (rouge)      : #C62828
 ## 6. Publication & Partage
 
 1. **Fichier → Publier → Power BI Service**
-2. Choisir l'espace de travail `BIOS Expertise – Demo`
+2. Choisir l'espace de travail `Demo`
 3. Configurer une **actualisation planifiée** (quotidienne à 6h00)
 4. Créer un **tableau de bord** en épinglant les KPIs clés
 5. Partager le lien avec les évaluateurs
